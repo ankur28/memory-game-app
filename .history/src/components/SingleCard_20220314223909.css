@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+}
+
+.card img {
+    width: 75%;
+    display: block;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+/* front of card - the ppicture */
+
+.card .front{
+    transform: rotate();
+}
